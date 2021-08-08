@@ -1,0 +1,15 @@
+#tag
+{
+    background-color: rgb(3, 1, 1);
+    color:rgb(20, 19, 19);
+    font-size: larger;
+    background-image: url(crown.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#head
+{
+    background-color: rgb(2, 2, 2);
+    color:seashell;
+    font-size:x-large;
+}
